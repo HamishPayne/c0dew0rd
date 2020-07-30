@@ -1,4 +1,4 @@
-# Letter N
+# WEEK 2
 
 ### making letter N using ps5.js 
 ### reinterprete letter 'H', 'P' 
